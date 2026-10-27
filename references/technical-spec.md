@@ -487,7 +487,7 @@ lightbox.addEventListener('click', e => { if(e.target === lightbox) lightbox.sty
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>[品牌名] - [一句话定位]</title>
   <meta name="description" content="[页面描述]" />
-  
+
   <!-- 字体：根据字体选择规则填入 -->
   <link href="https://fonts.loli.net/css2?family=[英文字体]:wght@400;500;700;800;900&display=swap" rel="stylesheet" />
   <link href="https://fonts.loli.net/css2?family=Noto+Sans+SC:wght@300;400;500;700;900&display=swap" rel="stylesheet" />
@@ -549,7 +549,7 @@ lightbox.addEventListener('click', e => { if(e.target === lightbox) lightbox.sty
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>[品牌名] - [一句话定位]</title>
   <meta name="description" content="[页面描述]" />
-  
+
   <link href="https://fonts.loli.net/css2?family=[英文字体]:wght@400;500;700;800;900&display=swap" rel="stylesheet" />
   <link href="https://fonts.loli.net/css2?family=Noto+Sans+SC:wght@300;400;500;700;900&display=swap" rel="stylesheet" />
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />

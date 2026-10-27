@@ -45,8 +45,7 @@ hb-website-creator/
 │   ├── design-guide.md   # 设计决策指南（五步方法论）
 │   ├── technical-spec.md # 技术规范（纯静态 HTML/CSS/JS）
 │   ├── combos/           # 8 种页面风格组合包
-│   ├── styles/           # 设计风格库
-│   └── interactions/     # 交互模式库（滚动、Tab、手风琴……）
+│   └── styles/           # 设计风格库
 ├── CHANGELOG/            # 版本迭代记录
 └── logo.html             # Skill 图标预览
 ```
